@@ -27,7 +27,4 @@ To run this example, you need to follow these steps:
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](^2^) file for details.
-
-: https://flower.dev/
-: https://github.com/ZeeshanGeoPk/federated-leaning-with-flower-library/blob/main/LICENSE
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/ZeeshanGeoPk/federated-leaning-with-flower-library/blob/main/LICENSE) file for details.
